@@ -1,6 +1,6 @@
 :root{
-    --bg-primary:#3344ff;
-    --text-primary: #fff;
+    --bg-primary: red;
+    --text-primary: yellow;
 }
 *{
     margin: 0px;
